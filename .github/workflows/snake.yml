@@ -1,9 +1,10 @@
 name: Contribution Snake
 
+# Triggers: daily + manual
 on:
   schedule:
-    - cron: '0 0 * * *' # every day at midnight
-  workflow_dispatch:
+    - cron: '0 0 * * *'  # runs every day at midnight UTC
+  workflow_dispatch:      # allows manual run from Actions tab
 
 jobs:
   build:
@@ -14,4 +15,4 @@ jobs:
         uses: platane/snk@v1.0.1
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-
+          output_file: github-contribution-grid-snake.svg
