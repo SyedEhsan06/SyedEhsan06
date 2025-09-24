@@ -58,7 +58,8 @@
 ---
 
 ## 🔥 Streaks & Contribution
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=syedehsan06&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=syedehsan06&theme=radical)
+
 
 ---
 
