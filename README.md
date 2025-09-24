@@ -1,16 +1,75 @@
-## Hi there 👋
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F75C7E&width=800&lines=Hi+there+👋+I'm+Syed+Ehsan;🚀+Full+Stack+Developer;💡+Problem+Solver;⚡+Tech+Explorer;MERN+%7C+DevOps+%7C+Cloud+%7C+DSA)](https://git.io/typing-svg)
 
-<!--
-**SyedEhsan06/SyedEhsan06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+- 🔭 Building modern web apps with **React, Node.js & MongoDB**  
+- 🌱 Exploring **DSA, System Design, Cloud & DevOps**  
+- 🎯 Goal: Crafting **scalable & high-performance applications**  
+- ✨ Motto: *Code. Create. Improve.*  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚡ Tech Stack
+
+### 🌐 Frontend
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=fff&style=for-the-badge)
+![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=fff&style=for-the-badge)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff&style=for-the-badge)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=fff&style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=fff&style=for-the-badge)
+![REST API](https://img.shields.io/badge/-REST_API-009688?logo=postman&logoColor=fff&style=for-the-badge)
+
+### 🗄️ Database
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=fff&style=for-the-badge)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=fff&style=for-the-badge)
+
+### 🛠 DevOps & Tools
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=for-the-badge)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=fff&style=for-the-badge)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge)
+
+---
+
+## 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=syedehsan06&theme=radical&no-frame=true&margin-w=10&margin-h=10)
+
+---
+
+## 📊 GitHub Stats
+![Ehsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=syedehsan06&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syedehsan06&layout=compact&theme=radical)
+
+---
+
+## 🔥 Streaks & Contribution
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=syedehsan06&theme=radical)
+
+---
+
+## 🐍 Contribution Snake
+![Snake animation](https://github.com/syedehsan06/syedehsan06/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🌐 Connect with Me
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=vercel&logoColor=fff&style=for-the-badge)](https://syedex.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/syed-ehsanullah-zafar-a58bb7221/)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=fff&style=for-the-badge)](https://www.instagram.com/toxiccoder7/)  
+
+---
+
+✨ *“If it’s been done, it can be done — nothing is truly impossible.”*  
