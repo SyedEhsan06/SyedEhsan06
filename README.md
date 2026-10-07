@@ -1,11 +1,13 @@
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F75C7E&width=800&lines=Hi+there+👋+I'm+Syed+Ehsan;🚀+Full+Stack+Developer;💡+Problem+Solver;⚡+Tech+Explorer;MERN+%7C+DevOps+%7C+Cloud+%7C+DSA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F75C7E&width=800&lines=Hi+there+👋+I'm+Syed+Ehsan;🚀+Full+Stack+Developer;🏢+Co-founder+%40+SydInnovations;💡+Problem+Solver;⚡+Tech+Explorer;Node+%7C+Go+%7C+Next.js+%7C+PostgreSQL+%7C+Cloud)](https://git.io/typing-svg)
 
 ---
 
 ## 👨‍💻 About Me
-- 🔭 Building modern web & mobile apps with **React, React Native, Node.js & MongoDB**  
-- 🌱 Exploring **DSA, System Design, Cloud (Azure & AWS) & DevOps**  
+- 🏢 Co-founder at **[SydInnovations](https://sydinnovations.com)**, building and running SaaS products end to end  
+- 🔭 Building modern web & mobile apps with **React, React Native, Node.js, Go & PostgreSQL**  
+- ⚙️ Building multi-tenant platforms: **commerce, real estate & travel CRMs, and AI analytics**  
+- 🌱 Exploring **DSA, System Design, Cloud (GCP, Azure & AWS) & DevOps**  
 - 🎯 Goal: Crafting **scalable & high-performance applications**  
 - ✨ Motto: *“If it’s been done, it can be done — nothing is truly impossible.”*  
 
@@ -20,13 +22,18 @@
 ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=fff&style=for-the-badge)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=fff&style=for-the-badge)
 ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=fff&style=for-the-badge)
+![Astro](https://img.shields.io/badge/-Astro-FF5D01?logo=astro&logoColor=fff&style=for-the-badge)
 ![Zustand](https://img.shields.io/badge/-Zustand-000?logo=zustand&logoColor=fff&style=for-the-badge)
 
 ### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff&style=for-the-badge)
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=fff&style=for-the-badge)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=fff&style=for-the-badge)
+![Fastify](https://img.shields.io/badge/-Fastify-000000?logo=fastify&logoColor=fff&style=for-the-badge)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=fff&style=for-the-badge)
 ![REST API](https://img.shields.io/badge/-REST_API-009688?logo=postman&logoColor=fff&style=for-the-badge)
+![Drizzle](https://img.shields.io/badge/-Drizzle_ORM-C5F74F?logo=drizzle&logoColor=000&style=for-the-badge)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=fff&style=for-the-badge)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=fff&style=for-the-badge)
 ![SQLite](https://img.shields.io/badge/-SQLite-07405E?logo=sqlite&logoColor=fff&style=for-the-badge)
 
@@ -34,20 +41,23 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=fff&style=for-the-badge)
+![PostGIS](https://img.shields.io/badge/-PostGIS-336791?logo=postgresql&logoColor=fff&style=for-the-badge)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=fff&style=for-the-badge)
 
 ### ☁️ Cloud & DevOps
+![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?logo=google-cloud&logoColor=fff&style=for-the-badge)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=fff&style=for-the-badge)
 ![Azure](https://img.shields.io/badge/-Azure-0089D6?logo=microsoft-azure&logoColor=fff&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=fff&style=for-the-badge)
 
 ---
 
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=syedehsan06&theme=radical&no-frame=true&margin-w=10&margin-h=10)
+## 🏆 GitHub Highlights
+![Profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SyedEhsan06&theme=radical)
 
 ---
 
@@ -64,15 +74,17 @@
 ---
 
 ## 🐍 Contribution Snake
-![Snake animation](https://github.com/syedehsan06/SyedEhsan06/blob/main/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/SyedEhsan06/SyedEhsan06/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 🌐 Connect with Me
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=vercel&logoColor=fff&style=for-the-badge)](https://syedex.com)  
+I'm open to interesting freelance and product work: SaaS builds, backend and API work, and AI features.
+
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=vercel&logoColor=fff&style=for-the-badge)](https://syedehsan.com)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/syed-ehsanullah-zafar-a58bb7221/)  
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=fff&style=for-the-badge)](https://www.instagram.com/toxiccoder7/)  
 
 ---
 
-✨ *“If it’s been done, it can be done — nothing is truly impossible.”*  
+✨ *“If it’s been done, it can be done — nothing is truly impossible.”*
